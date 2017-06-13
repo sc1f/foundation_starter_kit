@@ -26,12 +26,4 @@ $theme-darkgray: #40454a;
 
 }
 
-// imports
-
-
-@import '../foundation_sass/settings';
-@import '../foundation_sass/foundation';
-
-@include foundation-everything;
-
 // import your files here
